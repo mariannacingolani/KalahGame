@@ -1,6 +1,8 @@
-package com.marianna;
+package gj.kalah.player.console;
 
 import java.util.Scanner;
+
+import gj.kalah.player.Player;
 
 public class Kalah {
 
